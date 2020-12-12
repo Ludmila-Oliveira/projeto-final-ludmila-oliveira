@@ -82,6 +82,9 @@
 
 @media (max-width: 1020px) {
     #container-menu {
+        display: block;
+    }
+    #container-menu {
         display: none;
     }
 }
