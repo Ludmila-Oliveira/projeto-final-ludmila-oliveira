@@ -1,0 +1,111 @@
+{
+    "instituicoes": [{
+        "historia": "Somos uma instituição fundada em 2005 por Maria Flor e Pedro Silva e acolhemos animais em situação de abandono. Atualmente temos mais de 100 animais, sendo sua maioria cães. Promovemos eventos de adoção mensalmente em parceria com o VetPet, porém não é uma missão fácil encontrar um lar para nossos anjinhos peludos, principalemente os adultos e idosos. Todos os animais disponíveis para adoção são castrados, vacinados e vermifugados.",
+        "cidade": "Recife",
+        "estado": "PE",
+        "telefone": "(81) 98247-9519",
+        "facebook": "https:\/\/www.fb.com\/patinhaaumiga",
+        "nome": "Patinha Aumiga",
+        "id": 1,
+        "instagram": "https:\/\/www.instagram.com\/patinhaaumiga",
+        "email": "patinhaaumiga@gmail.com",
+        "necessidades": ["Alimentos", "Medicamentos", "Produtos de higiene", "Outros custos"],
+        "foto": "https://cdn.pixabay.com/photo/2017/02/12/10/11/dog-2059668_960_720.jpg"
+    }, {
+        "historia": "Nossa instituição foi fundada em 1960 e visa acolher crianças órfãs com idade inferior a 18 anos. Nosso lar acolhe meninas e meninos que aqui conseguem ter acesso a amor, saúde, educação, segurança e a oportunidade de conseguir uma família. Em nossa instituição temos a capacidade de atender cerca de 125 crianças.",
+        "cidade": "Natal",
+        "estado": "RN",
+        "telefone": "(84) 99606.2418",
+        "facebook": "https:\/\/www.fb.com\/criançafeliz",
+        "nome": "Criança Feliz",
+        "id": 2,
+        "instagram": "https:\/\/www.instagram.com\/criançafeliz",
+        "email": "criancafeliz@gmail.com",
+        "necessidades": ["Alimentos", "Brinquedos", "Material escolar", "Medicamentos", "Roupas"],
+        "foto": "https://image.freepik.com/fotos-gratis/feliz-criancas-em-escola-elementar_53876-46934.jpg"
+    }, {
+        "historia": "Somos uma casa de acolhimento para pessoas idosas que precisam de atenção, cuidado e amor nesta fase da vida. Nossos moradores moram aqui muitas vezes porque a família não pode dispor de uma situação financeira e cuidado 24h, fundamentais nessa fase. Nós recebemos mensalidades (simbólicas) pagas por cada morador, porém, os custos nos fazem precisar também de doações. Nosso sonho é poder dobrar nossa capacidade que atualmente está em 80 pessoas.",
+        "cidade": "São Bernardo",
+        "estado": "SP",
+        "telefone": "(11) 91236.0000",
+        "facebook": "https:\/\/www.fb.com\/idadedourada",
+        "nome": "Idade Dourada",
+        "id": 3,
+        "instagram": "https:\/\/www.instagram.com\/idadedourada",
+        "email": "idadedourada@outlook.com",
+        "necessidades": ["Alimentos", "Medicamentos", "Produtos de higiene","Roupas"],
+        "foto": "https://image.freepik.com/fotos-gratis/casal-de-idosos-segurando-um-laptop-juntos_23-2148388931.jpg"
+    }, {
+        "historia": "Nosso lar acolhe desde 1980 mulheres idosas que possuem redução da autonomia e cuja família não dispõem de recursos, financeiros ou humanos, para cuidar dessas guerreiras. Aqui procuramos fornecer todo cuidado e amor que elas merecem, além de trabalhar bastante na reabilitação de suas autonomias com fisioterapia, oficinas, palestras e nossos tão amados bailes.",
+        "cidade": "Gravatá",
+        "estado": "PE",
+        "telefone": "(81) 95558.8651",
+        "facebook": "https:\/\/www.fb.com\/lardasrainhasseniores",
+        "nome": "Lar das Rainhas Seniores",
+        "id": 4,
+        "instagram": "https:\/\/www.instagram.com\/lardas_rainhasseniores",
+        "email": "lardasrainhasseniores@gmail.com",
+        "necessidades": ["Alimentos", "Medicamentos", "Produtos de higiene", "Roupas", "Outros custos"],
+        "foto": "https://cdn.pixabay.com/photo/2020/01/25/09/26/woman-4792038_960_720.jpg"
+    }, {
+        "historia": "Nosso trabalho é focado em fornecer alimentação e higiene diária para cerca de 300 pessoas em situação de vulnerabilidade. Diariamente servimos café da manhã, almoço e jantar em nosso refeitório, bem como um banho, sendo tudo é monitorado por um cadastro feito com essas pessoas. Costumamos servir alimentos e materiais de higiene promovam bem estar e amor para estas pessoas.",
+        "cidade": "Londrina",
+        "estado": "PR",    
+        "telefone": "(68) 91286.2983",
+        "facebook": "https:\/\/www.fb.com\/umjestocomamor",
+        "nome": "Um Jesto com Amor",
+        "id": 5,
+        "instagram": "https:\/\/www.instagram.com\/umjestocomamor",
+        "email": "umjestocomamor@outlook.com",
+        "necessidades": ["Alimentos", "Produtos de higiene", "Roupas", "Outros custos"],
+        "foto": "https://images.pexels.com/photos/5638705/pexels-photo-5638705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    }, {
+        "historia": "Em nossa instituição cuidados de animais que foram abandonados ou resgatados de situação de maus tratos. Aqui cerca de 130 animais se preparam para ter a oportunidade de conseguir um lar que os ame como membros da família! Todos os nossos amiguinhos são castrados, vacinados e vermifugados, além de receber tratamento de acordo com cada necessidade. ",
+        "cidade": "Porto Acre",
+        "estado": "AC",
+        "telefone": "(81) 99877.9999",
+        "facebook": "https:\/\/www.fb.com\/anjospelulos",
+        "nome": "Anjos Peludos",
+        "id": 6,
+        "instagram": "https:\/\/www.instagram.com\/anjospelulos",
+        "email": "anjospelulos@gmail.com",
+        "necessidades": ["Alimentos", "Medicamentos", "Produtos de higiene", "Outros custos"],
+        "foto": "https://cdn.pixabay.com/photo/2015/10/12/14/57/dogs-984015_960_720.jpg"
+    }, {
+        "historia": "Desde de 2002 nosso projeto visa fornecer educação para crianças da comunidade carente de São Lourenço, permitindo que cada uma delas tenha a oportunidade de brilhar no futuro. Aqui damos aulas de reforço, temos oficinas de culinária e arte, aulas de karatê e desenvolvemos projetos de inserção em tecnologia. ",
+        "cidade": "São João do Meriti",
+        "estado": "RJ",
+        "telefone": "(21) 98000.2121",
+        "facebook": "https:\/\/www.fb.com\/projetofuturobrilhante",
+        "nome": "Projeto Futuro Brilhante",
+        "id": 7,
+        "instagram": "https:\/\/www.instagram.com\/projetofuturobrilhante",
+        "email": "projetofuturobrilhante@hotmail.com",
+        "necessidades": ["Alimentos", "Brinquedos", "Material escolar", "Outros custos"],
+        "foto": "https://image.freepik.com/fotos-gratis/pequenos-colegas-discutindo-a-licao-e-realizando-tarefas_74855-10243.jpg"
+    }, {
+        "historia": "Nossa missão é levar donativos para áreas mais remotas ou que sofreram desastres naturais em Pernambuco. Tudo é feito através de doações e voluntários que se dispõem a recolher, separar e transportar os itens recebidos. Estes itens vão de alimentos até brinquedos, e quando nós temos a oportunidade de entregar para as pessoas e ver seus sorrisos, vale cada esforço. Apoem nosso projeto e vivam também estes momentos!",
+        "cidade": "Recife",
+        "estado": "PE",
+        "telefone": "(81) 99087.1235",
+        "facebook": "https:\/\/www.fb.com\/leveamoraalguem",
+        "nome": "Leve amor a alguém",
+        "id": 8,
+        "instagram": "https:\/\/www.instagram.com\/leve.amoraalguem",
+        "email": "leveamoraalguem@hotmail.com",
+        "necessidades": ["Alimentos", "Brinquedos", "Material escolar", "Medicamentos", "Produtos de higiene", "Roupas", "Outros custos"],
+        "foto": "https://image.freepik.com/fotos-gratis/vista-superior-da-caixa-com-comida-para-doacao_23-2148733844.jpg"
+    }, {
+        "historia": "Nossa instituição fornece reabilitação para pessoas com dificiência física. Ao todo atendemos de forma gratuita cerca de 350 pessoas que aqui têm a chance de realizar fisioterapia, fonoaudiologia e dança que contribuem com a melhoria da autonomia e saúde mental. Cada membro recebe seu cronograma de atividades de acordo com suas necessidades e tudo é feito de forma alternada para oferecer um espaço apropriado.",
+        "cidade": "João Pessoa",
+        "estado": "PB",
+        "telefone": "(83) 98764.2345",
+        "facebook": "https:\/\/www.fb.com\/projeto_liberdade",
+        "nome": "Projeto Liberdade",
+        "id": 9,
+        "instagram": "https:\/\/www.instagram.com\/projeto_liberdade",
+        "email": "projetoliberdade@yahoo.com",
+        "necessidades": ["Alimentos", "Medicamentos", "Outros custos"],
+        "foto": "https://image.freepik.com/fotos-gratis/homem-incapacitado-de-tiro-completo-fazendo-flexoes_23-2148779034.jpg"
+    }]
+}

@@ -1,0 +1,153 @@
+.modal {
+    width: 100%;
+    height: 100%;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+
+    background-color: rgba(0, 0, 0, 0.3);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: var(--white);
+    color: var(--dark-text);
+
+    width: 65%;
+   
+    border-radius: 50px;
+}
+
+.close {
+    position: relative;
+    right: calc(-100% + 8rem);
+    top: 2rem;
+
+    background-color:var(--button-close);
+    color: var(--dark-text);
+}
+
+.close:hover {
+    background-color: var(--hover-button);
+    color: var(--white);
+}
+
+#title-modal {
+    margin-bottom: 1rem;
+
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 2.5rem;
+
+    padding: 4rem 0 1rem;
+}
+
+#p-history, #p-necessity {
+	margin: 1rem auto;
+
+    width: 80%;
+
+    text-align: justify;
+	text-indent: 3rem;
+	font-weight: 400;
+	font-size: 1.2rem;
+	line-height: 1.5rem;
+}
+
+#p-email {
+    margin: 1rem auto;
+
+    width: 80%;
+
+    text-align: justify;
+    text-indent: initial;
+	font-weight: 400;
+	font-size: 1.2rem;
+	line-height: 1.5rem;
+}
+
+#social-institution {
+    display: flex;
+    justify-content: center;
+
+    margin-top: 1.5rem;
+}
+
+#social-institution a {
+	background-color: var(--social-midias);
+
+    width: 5rem;
+    height: 4rem;
+
+    border-radius: 30px;
+
+    margin: 1rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#social-institution a:hover {
+    background-color: var(--hover-social-midias);
+}
+
+@media (max-width: 1020px) {
+    #title-modal {
+        font-size: 1.65rem;
+        line-height: 2rem;
+    }
+}
+
+@media (max-width: 860px) {
+
+    .container { 
+        width: 85%;
+        height: 80vh;
+    }
+
+    #title-modal {
+        margin: 0 2rem
+    }
+    .history {
+        width: 85%;
+        height: 65%;
+
+        margin: 0 auto;
+        padding: 0;
+
+        overflow: scroll;
+    }
+
+    .history::-webkit-scrollbar {
+        width: 4px;
+    }
+
+    .history::-webkit-scrollbar-track {
+        background:  #ffffff;
+    }
+
+    .history::-webkit-scrollbar-thumb {
+        background: #B8513B;
+        border: solid 4px #B8513B;
+    }
+
+    #p-history, #p-necessity, #p-email {
+        width: 90%;
+
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 590px) {
+
+	#social-institution a {
+        width: 4rem;
+        height: 3.5rem;
+    }
+}

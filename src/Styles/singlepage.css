@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    --button: #bb4f04;
+    --hover-button: #E07226;
+    --button-close:#EDBF9F;
+    --social-midias: #9E3528;
+    --hover-social-midias:#E0AE8B;
+    --menu-burger: #B8513B;
+    --menu-burger-hover: #D16D57;
+
+    --white: #ffffff;
+    --dark-text:#261A18;
+
+    --background-institution: #FFC69E;
+    --background-form: #FFF1CC;
+    --background-footer: #5E413A;
+
+    --error: #d32e05;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    
+    background-color: var(--white);
+}
+
+body, input, button, textarea, select, option {
+    font: 400 1rem 'Comfortaa', cursive;   
+}
+
+select {
+    padding: .2rem;
+}
+
+input, label, textarea, checkbox {
+    margin: .3rem;
+
+    color: var(--dark-text);
+}
+
+ul {
+    list-style: none;
+}
+
+textarea {
+    width: 70%;
+}
+
+.width-input {
+    width: 45%;
+}
+
+input, textarea, select, button, a {
+    border-radius: 20px;
+    
+    padding: .5rem;
+}
+
+fieldset {
+    padding: 1rem 1rem 1.5rem;
+    margin: 1rem;
+
+    border-radius: 50px;
+}
+
+button{
+    outline: none;
+
+    background-color: var(--button);
+    color: var(--white);
+
+    border: none;
+    
+    width: 6rem;
+    height: 2.8rem;
+    
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button:hover {
+    background-color: var(--hover-button);
+}
+
+input, fieldset, textarea, select {
+    border: .1rem solid var(--dark-text);
+}
+
+@media (max-width: 1020px) {
+    .width-input, textarea {
+        width: 96%;
+    }
+}
