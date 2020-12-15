@@ -3,10 +3,11 @@
   :heartpulse: Abrace o próximo! (segue em melhorias) :heartpulse:
 </h4>
 <p align="center">
- <a href="#-sobre">Sobre</a> •
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologia">Tecnologia</a> • 
- <a href="#-como-contribuir">Como contibruir</a> • 
+ <a href="#-sobre-o-projeto">Sobre o projeto</a> •
+ <a href="#-execucao-do-projeto">Execução do projeto</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-libs">Tecnologias</a> • 
+ <a href="#-como-pode-contribuir">Como você pode contribuirr</a> • 
 </p>
 
 ## :page_facing_up: Sobre o projeto
@@ -31,7 +32,7 @@ $ npm start
 #### Obs: Todo esse processo pode ser realizado utilizando o [Yarn](https://yarnpkg.com/)
 
 
-## :computer: TecnologiaS
+## :computer: Tecnologias
 - [React](https://pt-br.reactjs.org/) 
 - [Yarn](https://yarnpkg.com/)  
 ---   
