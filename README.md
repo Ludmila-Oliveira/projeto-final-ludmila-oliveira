@@ -7,10 +7,11 @@
  <a href="#execucao-do-projeto">Execução do projeto</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#libs">Libs</a> • 
- <a href="#como-voce-pode-contribuir">Como você pode contribuirr</a> •
+ <a href="#como-voce-pode-contribuir">Como você pode contribuir</a> •
+ <a href="#licenca">Licença</a> •
 </p>
 
-## :page_facing_up: <p id="sobre-o-projeto">Sobre o projeto</p>
+## :speech_balloon: <span id="sobre-o-projeto">Sobre o projeto</span>
 O projeto Abrace o próximo foi desenvolvido como atividade final no curso da {Reprograma} na turma de Front-end. Tive como finalidade desenvolvedor um site que permita a hospedagem de diversos tipos de instituições sem fins lucrativos, visando aumentar suas doações e facilitar o acesso das informações individuais de cada uma delas a sociedade em geral.
 
 ---   
@@ -32,7 +33,7 @@ $ npm start
 #### Obs: Todo esse processo pode ser realizado utilizando o [Yarn](https://yarnpkg.com/)
 
 
-## :computer: <p id="tecnologias">Tecnologias</p>
+## :computer: <span id="tecnologias">Tecnologias</span>
 - [React](https://pt-br.reactjs.org/) 
 - [Yarn](https://yarnpkg.com/)  
 ---   
@@ -44,7 +45,7 @@ $ npm start
 - [Burger-menu](https://github.com/negomi/react-burger-menu)
 ---   
   
-## :point_down: <p id="como-voce-pode-contribuir">Como você pode contribuir</p>
+## :point_down: <span id="como-voce-pode-contribuir">Como você pode contribuir</span>
 1. Faça um **fork** do projeto.
 2. Clone o seu repositório forkado `git clone link do seu fork`
 3. Crie uma nova branch para as suas alterações: `git checkout -b add-links-seu-nome`
@@ -53,6 +54,9 @@ $ npm start
 6. Envie as suas alterações: `git push origin add-links-seu-nome`
 ---
 
+## :page_facing_up: <span id="licenca">Licença</span>
+
+Este projeto está sob a licença [MIT](https://github.com/Ludmila-Oliveira/projeto-final-ludmila-oliveira/blob/master/LICENSE).
 
 
 Feito por Ludmila Oliveira  
