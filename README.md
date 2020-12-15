@@ -8,14 +8,13 @@
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#libs">Libs</a> • 
  <a href="#como-voce-pode-contribuir">Como você pode contribuirr</a> •
- [Tecnologias](#Tecnologias)
 </p>
 
-## :page_facing_up: Sobre o projeto
+## :page_facing_up: <p id="sobre-o-projeto">Sobre o projeto</p>
 O projeto Abrace o próximo foi desenvolvido como atividade final no curso da {Reprograma} na turma de Front-end. Tive como finalidade desenvolvedor um site que permita a hospedagem de diversos tipos de instituições sem fins lucrativos, visando aumentar suas doações e facilitar o acesso das informações individuais de cada uma delas a sociedade em geral.
 
 ---   
-## :white_check_mark: Execução do projeto
+## :white_check_mark: <p id="execucao-do-projeto">Execução do projeto</p>
 
 **Antes de iniciar lembre-se de instalar o [NodeJs](https://nodejs.org/en/)**
 
@@ -33,19 +32,19 @@ $ npm start
 #### Obs: Todo esse processo pode ser realizado utilizando o [Yarn](https://yarnpkg.com/)
 
 
-## :computer: Tecnologias
+## :computer: <p id="tecnologias">Tecnologias</p>
 - [React](https://pt-br.reactjs.org/) 
 - [Yarn](https://yarnpkg.com/)  
 ---   
 
-## :books: Libs
+## :books: <p id="libs">Libs</p>
 - [Formik](https://formik.org/) 
 - [Yup](https://www.npmjs.com/package/yup)  
 - [Sweetalert2](https://sweetalert2.github.io/)
 - [Burger-menu](https://github.com/negomi/react-burger-menu)
 ---   
   
-## :point_down: Como você pode contribuir 
+## :point_down: <p id="como-voce-pode-contribuir">Como você pode contribuir</p>
 1. Faça um **fork** do projeto.
 2. Clone o seu repositório forkado `git clone link do seu fork`
 3. Crie uma nova branch para as suas alterações: `git checkout -b add-links-seu-nome`
@@ -53,5 +52,7 @@ $ npm start
 5. Salve as alterações adicione `git add Services ` e escreva uma mensagem de commit me falando o que você fez: `git commit -m "links: mensagem"`
 6. Envie as suas alterações: `git push origin add-links-seu-nome`
 ---
+
+
 
 Feito por Ludmila Oliveira  
