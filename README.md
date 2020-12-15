@@ -7,7 +7,8 @@
  <a href="#execucao-do-projeto">Execução do projeto</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#libs">Libs</a> • 
- <a href="#como-voce-pode-contribuir">Como você pode contribuirr</a> • 
+ <a href="#como-voce-pode-contribuir">Como você pode contribuirr</a> •
+ [Tecnologias](#Tecnologias)
 </p>
 
 ## :page_facing_up: Sobre o projeto
