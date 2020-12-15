@@ -8,11 +8,15 @@
  <a href="#-tecnologia">Tecnologia</a> • 
  <a href="#-como-contribuir">Como contibruir</a> • 
 </p>
+
 ## :page_facing_up: Sobre o projeto
 O projeto Abrace o próximo foi desenvolvido como atividade final no curso da {Reprograma} na turma de Front-end. Tive como finalidade desenvolvedor um site que permita a hospedagem de diversos tipos de instituições sem fins lucrativos, visando aumentar suas doações e facilitar o acesso das informações individuais de cada uma delas a sociedade em geral.
+
 ---   
 ## :white_check_mark: Execução do projeto
+
 **Antes de iniciar lembre-se de instalar o [NodeJs](https://nodejs.org/en/)**
+
 ```bash
 # Clone este repositório
 $ git clone https://github.com/Ludmila-Oliveira/projeto-final-ludmila-oliveira
