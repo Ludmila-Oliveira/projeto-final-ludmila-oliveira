@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+<img src="https://github.com/Ludmila-Oliveira/projeto-final-ludmila-oliveira/blob/master/src/Images/logoAbraceOProximo.png"/>    
+<h4 align="center"> 
+  :heartpulse: Abrace o próximo! (segue em melhorias) :heartpulse:
+</h4>
+<p align="center">
+ <a href="#-sobre">Sobre</a> •
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologia">Tecnologia</a> • 
+ <a href="#-como-contribuir">Como contibruir</a> • 
+</p>
+## :page_facing_up: Sobre o projeto
+O projeto Abrace o próximo foi desenvolvido como atividade final no curso da {Reprograma} na turma de Front-end. Tive como finalidade desenvolvedor um site que permita a hospedagem de diversos tipos de instituições sem fins lucrativos, visando aumentar suas doações e facilitar o acesso das informações individuais de cada uma delas a sociedade em geral.
+---   
+## :white_check_mark: Execução do projeto
+**Antes de iniciar lembre-se de instalar o [NodeJs](https://nodejs.org/en/)**
+```bash
+# Clone este repositório
+$ git clone https://github.com/Ludmila-Oliveira/projeto-final-ludmila-oliveira
+# Acesse a pasta do projeto no terminal/cmd
+$ cd projeto-final-ludmila-oliveira
+# Instale as dependências
+$ npm install
+# Execute a aplicação em modo de desenvolvimento
+$ npm start
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+```
+#### Obs: Todo esse processo pode ser realizado utilizando o [Yarn](https://yarnpkg.com/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## :computer: TecnologiaS
+- [React](https://pt-br.reactjs.org/) 
+- [Yarn](https://yarnpkg.com/)  
+---   
 
-In the project directory, you can run:
+## :books: Libs
+- [Formik](https://formik.org/) 
+- [Yup](https://www.npmjs.com/package/yup)  
+- [Sweetalert2](https://sweetalert2.github.io/)
+- [Burger-menu](https://github.com/negomi/react-burger-menu)
+---   
+  
+## :point_down: Como você pode contribuir 
+1. Faça um **fork** do projeto.
+2. Clone o seu repositório forkado `git clone link do seu fork`
+3. Crie uma nova branch para as suas alterações: `git checkout -b add-links-seu-nome`
+4. Para adicionar seu link clique na pasta Services e edite o arquivo api.json, seguindo a organização e estrutura do arquivo.  
+5. Salve as alterações adicione `git add Services ` e escreva uma mensagem de commit me falando o que você fez: `git commit -m "links: mensagem"`
+6. Envie as suas alterações: `git push origin add-links-seu-nome`
+---
 
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feito por Ludmila Oliveira  
