@@ -3,11 +3,11 @@
   :heartpulse: Abrace o próximo! (segue em melhorias) :heartpulse:
 </h4>
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre o projeto</a> •
- <a href="#-execucao-do-projeto">Execução do projeto</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-libs">Libs</a> • 
- <a href="#-como-voce-pode-contribuir">Como você pode contribuirr</a> • 
+ <a href="#sobre-o-projeto">Sobre o projeto</a> •
+ <a href="#execucao-do-projeto">Execução do projeto</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#libs">Libs</a> • 
+ <a href="#como-voce-pode-contribuir">Como você pode contribuirr</a> • 
 </p>
 
 ## :page_facing_up: Sobre o projeto
