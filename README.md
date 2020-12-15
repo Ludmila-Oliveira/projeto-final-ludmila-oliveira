@@ -38,7 +38,7 @@ $ npm start
 - [Yarn](https://yarnpkg.com/)  
 ---   
 
-## :books: <p id="libs">Libs</p>
+## :books: <span id="libs">Libs</span>
 - [Formik](https://formik.org/) 
 - [Yup](https://www.npmjs.com/package/yup)  
 - [Sweetalert2](https://sweetalert2.github.io/)
